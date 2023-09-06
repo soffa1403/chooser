@@ -9,7 +9,7 @@
 	height: 50px;
 	position: relative;
 	bottom: 185px;
-	left: 125px;
+	left: -2px;
 	color: white;
 }
 
@@ -28,9 +28,9 @@
 	border-radius: 5%;
 	width: 250px;
 	height: 50px;
-	position: relative;
-	bottom: 85px;
-	right: 130px;
+	position: fixed;
+	bottom: 211px;
+	right: 529px;
 	color: white;
 }
 
